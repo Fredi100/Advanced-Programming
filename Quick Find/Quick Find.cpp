@@ -13,7 +13,7 @@ int main()
 
     while (1) {
 
-        cin >> p;
+        cin >> p;<
         if (!cin)
             break;
         cin >> q;

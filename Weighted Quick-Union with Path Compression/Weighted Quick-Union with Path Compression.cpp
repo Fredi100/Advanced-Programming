@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 
-int main(int argc, char* argv[]) {
+int main() {
     std::string p, q;
     int N = 10;
     int i, j;
